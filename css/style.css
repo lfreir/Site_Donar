@@ -1,0 +1,37 @@
+#topo{
+    clear:initial;
+    text-align:center;
+    padding: 30px;
+    background-color: rgb(73, 72, 124);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background-color: blue;
+}
+.cl{
+    padding: 40px 200px;
+}
+img{
+    width: 500px;
+    height: 350px;
+    padding: 0px 30px 30px 30px;
+    align-items: center;
+}
+h1{
+    color: brown;
+    align-items: center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+    text-align: justify;
+}
+a :hover{
+    color: black;
+}
